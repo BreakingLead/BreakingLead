@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on doing some exercises about OI.
-- 🌱 I’m currently learning senior high school math, physics, CSAPP, RISC-V.
+- 🌱 I’m currently learning senior high school math, physics, CSAPP, RISC-V ISC.
 - 👯 I’m looking to collaborate on idk.
 - 🤔 I’m looking for help with everyone.
 - 💬 Ask me about ...
 - 📫 How to reach me: QQ: 2539592933 Email:s25nnkerman@foxmail.com
 - 😄 Pronouns: He/She
-- ⚡ Fun fact: I'm so weak.
+- ⚡ Fun fact: tai ruo le.
