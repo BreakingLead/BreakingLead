@@ -24,7 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS }}
 
           # Options
           user: BreakingLead
@@ -58,6 +58,8 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_calendar: yes
+          plugin_calendar_limit: 3
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_tweets: yes
