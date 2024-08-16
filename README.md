@@ -6,4 +6,4 @@ Where's the light in the blackspace?
 - [Bilibili](https://space.bilibili.com/34258013)
 - [Zhihu](https://www.zhihu.com/people/ggmyfriendxd)
 
-![My statis](https://github-readme-stats.vercel.app/api?username=BreakingLead&show_icons=true)
+![Metrics](/github-metrics.svg)
